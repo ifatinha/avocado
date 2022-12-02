@@ -258,6 +258,10 @@ body {
         height: 307px;
     }
 
+    .filosofia {
+        grid-column: 1;
+    }
+
     .footer {
         grid-template-columns: 1fr;
         text-align: center;
